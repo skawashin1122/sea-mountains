@@ -1,0 +1,10 @@
+{
+  "name": "にちなん海幸山幸ものがたり",
+  "description": "AI語り部と巡る、飫肥杉と海原のディープ・スローツーリズム。画像認識による歴史人物マルチリンガル語り部、奥深い地域への寄り道コンシェルジュ、飫肥杉年輪スタンプ手帳。",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
